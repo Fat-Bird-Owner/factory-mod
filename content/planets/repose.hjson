@@ -17,7 +17,6 @@ orbitRadius: 100
 
 prebuildBase: true
 parent: sun
-defaultCore: core-satellite
 solarSystem: sun
 updateLighting: false
 
