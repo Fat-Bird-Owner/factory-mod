@@ -8,7 +8,7 @@ alwaysUnlocked: true
 accessible: true
 bloom: true
 
-sectorSize: 3
+sectorSize: 1
 startSector: 11
 
 atmosphereColor: d3e9f2
