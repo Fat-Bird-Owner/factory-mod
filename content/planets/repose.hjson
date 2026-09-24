@@ -34,7 +34,7 @@ cloudMesh: [
    type: HexSkyMesh
    planet: repose
    speed: 1.01
-   radius: 0.15
+   radius: 0.19
    divisions: 5
    color: a7a9c4
 
@@ -52,7 +52,7 @@ cloudMesh: [
    type: HexSkyMesh
    planet: repose
    speed: 1.01
-   radius: 0.1
+   radius: 0.14
    divisions: 5
    color: 767aa6bd
 # 767aa6bd
@@ -69,7 +69,7 @@ cloudMesh: [
    type: HexSkyMesh
    planet: repose
    speed: 2.3
-   radius: 0.01
+   radius: 0.03
    divisions: 5
    color: a7a9c477
    octaves: 3
