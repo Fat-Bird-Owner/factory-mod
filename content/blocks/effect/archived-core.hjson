@@ -1,0 +1,22 @@
+type: CoreBlock
+size: 3
+name: Archived Core
+
+health: 4000
+armor: 5
+itemCapacity: 2000
+
+requirements: [silicon/1500]
+research: {
+planet: repose
+root: true
+alwaysUnlocked: true
+name: "[Repose Archives]"
+}
+  
+description: "
+Unknown origins implied to be an archived/potentially older variantion of another 'core'
+[grey]
+(=) Stores 2,000 items at max
+(+) Overdrives surrounding buildings 20%
+"
