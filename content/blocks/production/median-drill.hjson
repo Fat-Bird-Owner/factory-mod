@@ -6,6 +6,7 @@ requirements: []
 category: production
 drillTime: 360
 
+tier: 2
 description: "
 Drills ores from the ground
 [grey]
