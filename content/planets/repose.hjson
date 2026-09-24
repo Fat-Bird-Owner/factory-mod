@@ -12,7 +12,7 @@ sectorSize: 1
 startSector: 11
 
 # d3e9f2
-atmosphereColor: 94a1a6
+atmosphereColor: 54575e
 orbitSpacing: 12
 orbitRadius: 100
 
