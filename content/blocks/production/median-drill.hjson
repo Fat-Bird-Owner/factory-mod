@@ -9,6 +9,7 @@ drillTime: 360
 squareSprite: false
 customShadow: true
 
+liquidBoostIntensity: 1
 tier: 2
 description: "
 Drills ores from the ground
