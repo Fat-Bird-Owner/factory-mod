@@ -1,7 +1,7 @@
 
 generator: SerpuloPlanetGenerator
 
-radius: 0.6
+radius: 0.85
 localizedName: Repose
 iconColor: d3e9f2
 alwaysUnlocked: true
