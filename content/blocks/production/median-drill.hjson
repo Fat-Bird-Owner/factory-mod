@@ -6,6 +6,9 @@ requirements: []
 category: production
 drillTime: 360
 
+squareSprite: false
+customShadow: true
+
 tier: 2
 description: "
 Drills ores from the ground
