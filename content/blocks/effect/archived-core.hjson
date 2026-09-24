@@ -13,7 +13,8 @@ root: true
 alwaysUnlocked: true
 name: "[Repose Archives]"
 }
-  
+
+customShadow: true
 description: "
 Unknown origins implied to be an archived/potentially older variantion of another 'core'
 [grey]
