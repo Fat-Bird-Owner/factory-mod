@@ -1,4 +1,6 @@
 function medianDrill(block){
+
+if (!(block instanceof Drill)) return;
 block.buildType = () => extend(Drill.DrillBuild, block, {
 
 accelerateSpeed(){
