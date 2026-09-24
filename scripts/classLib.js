@@ -59,6 +59,8 @@ Drawf.dashCircle(this.x, this.y, 160, col)
 
 updateTile(){
 
+this.super$updateTile();
+  
 if (this.timer.get(55)) {
 
 Vars.indexer.eachBlock(this, 160, other => true, other => {
