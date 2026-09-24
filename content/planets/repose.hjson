@@ -11,7 +11,8 @@ bloom: true
 sectorSize: 1
 startSector: 11
 
-atmosphereColor: d3e9f2
+# d3e9f2
+atmosphereColor: 94a1a6
 orbitSpacing: 12
 orbitRadius: 100
 
@@ -36,7 +37,7 @@ cloudMesh: [
    speed: 1.01
    radius: 0.19
    divisions: 5
-   color: a7a9c4
+   color: d3e9f2
 
 # a7a9c4
 
@@ -54,7 +55,7 @@ cloudMesh: [
    speed: 1.01
    radius: 0.14
    divisions: 5
-   color: 767aa6bd
+   color: d3e9f2bd
 # 767aa6bd
 
    octaves: 2
@@ -71,7 +72,7 @@ cloudMesh: [
    speed: 2.3
    radius: 0.03
    divisions: 5
-   color: a7a9c477
+   color: d3e9f277
    octaves: 3
    persistence: 0.3
    scl: 1
