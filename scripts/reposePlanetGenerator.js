@@ -8,7 +8,7 @@ let depth = Simplex.noise3d(
 this.seed,
 2,
 0.5,
-2,
+2.25,
 position.x,
 position.y,
 position.z
@@ -29,7 +29,7 @@ Simplex.noise3d(
 this.seed,
 2,
 0.5,
-2,
+2.25,
 position.x,
 position.y,
 position.z
