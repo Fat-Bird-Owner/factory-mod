@@ -15,8 +15,8 @@ position.z
 )
 
 let color = Blocks.water.mapColor
+if (depth >= 0.1) color = Blocks.sand.mapColor
 if (depth >= 0.25) color = Blocks.grass.mapColor
-if (depth >= 0.35) color = Blocks.sand.mapColor
 if (depth >= 0.5) color = Blocks.stone.mapColor
 if (depth >= 0.75) color = Blocks.snow.mapColor
 
