@@ -33,7 +33,7 @@ this.seed,
 position.x,
 position.y,
 position.z
-) - 1.5,
+) / 1.5,
 0,
 1
 )
