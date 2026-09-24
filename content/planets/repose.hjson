@@ -36,7 +36,7 @@ cloudMesh: [
    planet: repose
    speed: 1.01
    radius: 0.19
-   divisions: 5
+   divisions: 6
    color: d3e9f2
 
 # a7a9c4
@@ -54,7 +54,7 @@ cloudMesh: [
    planet: repose
    speed: 1.01
    radius: 0.14
-   divisions: 5
+   divisions: 6
    color: d3e9f2bd
 # 767aa6bd
 
@@ -71,7 +71,7 @@ cloudMesh: [
    planet: repose
    speed: 2.3
    radius: 0.03
-   divisions: 5
+   divisions: 6
    color: d3e9f277
    octaves: 3
    persistence: 0.3
