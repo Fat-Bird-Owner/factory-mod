@@ -38,6 +38,42 @@ this.super$updateTile();
   
 })}
 
+function overdriveCore(block, range){ 
+block.buildType = () => extend(CoreBlock.CoreBuild, block, 
+{
+
+timer: new Interval(),
+
+drawSelect(){
+
+Vars.indexer.eachBlock(this, 160, other => true, other => {
+Drawf.selected(other, this.team.color)
+})
+
+let col = this.team.color.cpy();
+col.a = Mathf.absin(4, 0.5)
+
+Drawf.dashCircle(this.x, this.y, 160, col)
+
+},
+
+updateTile(){
+
+if (this.timer.get(55)) {
+
+Vars.indexer.eachBlock(this, 160, other => true, other => {
+other.applyBoost(1.2, 60)
+});
+
+}
+
+}
+
+});
+  
+}
+
 exports.classes = {
- medianDrill: medianDrill
+ medianDrill: medianDrill,
+ overdriveCore: overdriveCore
 }
