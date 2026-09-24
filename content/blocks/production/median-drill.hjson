@@ -1,0 +1,14 @@
+type: Drill
+name: Median Drill
+size: 2
+
+requirements: []
+category: production
+drillTime: 360
+
+description: "
+Drills ores from the ground
+[grey]
+(=) Behaves like an impact drill
+(+) Can be boosted
+"
