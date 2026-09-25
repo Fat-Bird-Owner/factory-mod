@@ -7,10 +7,10 @@ armor: 5
 itemCapacity: 2000
 
 requirements: [silicon/1500]
+alwaysUnlocked: true
 research: {
 planet: repose
 root: true
-alwaysUnlocked: true
 name: "[Repose Archives]"
 }
 
