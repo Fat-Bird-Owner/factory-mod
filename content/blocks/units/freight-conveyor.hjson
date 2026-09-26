@@ -1,5 +1,5 @@
 type: PayloadConveyor
-name: Transport Belt
+name: Freight Conveyor
 description: "
 Transports payloads foward
 "
