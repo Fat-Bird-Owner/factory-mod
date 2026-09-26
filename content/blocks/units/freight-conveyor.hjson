@@ -7,4 +7,6 @@ Transports payloads foward
 requirements: [silicon/15]
 research: archived-core
 researchCostMultiplier: 0.05
+
+size: 1
 payloadLimit: 1
