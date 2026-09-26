@@ -1,0 +1,10 @@
+type: PayloadConveyor
+name: Transport Belt
+description: "
+Transports payloads foward
+"
+
+requirements: [silicon/15]
+research: archived-core
+researchCostMultiplier: 0.05
+payloadLimit: 1
